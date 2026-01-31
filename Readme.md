@@ -11,10 +11,10 @@ MODULES_EXTRA = smpc
 Include it in your code:
 ```
 #include <smpc.hpp>
-using namespace SRL::Ponesound;
 ```
 Currently only for turning the audio processor on/off and enabling/disabling the reset button are enabled.
 
 These are for use with the Ponesound-SRL module and a coming Backup module.
+
 
 
